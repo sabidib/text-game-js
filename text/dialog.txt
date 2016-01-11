@@ -1,0 +1,40 @@
+{
+	"intro" : [
+		{
+			"option_number" : 1,
+			"string" : "You can click this option",
+			"response_number" : 0
+		} ,
+		{
+			"option_number" : 2,
+			"string" : "Or you can click this option!",
+			"response_number" : 0
+		} ,
+		{
+			"option_number" : 3,
+			"string" : "Pick whatever you want",
+			"response_number" : 0
+		} 
+	],
+	"introResponse" : [ 
+		{
+			"response_number" : [1,2],
+			"string": "Clicking different options can sometimes give you different responses."
+		},
+		{
+			"response_number" : [3],
+			"string" : "You choose 3!"
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
